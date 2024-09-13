@@ -3,7 +3,7 @@
   
 - 🔍 I love solving front-end challenges with the latest tech to enhance user experiences.
 - 👨‍💻 My focus is on writing clean, functional, and maintainable code.
-- 🌟 Skilled in building modern websites with React, JavaScript, HTML, and CSS.
+- 🌟 Skilled in building modern websites with HTML, CSS, React, JavaScript, TypeScript and Next.js .
 - 🌐 I stay updated on the latest web development trends, aiming to integrate scalable and robust solutions into my projects.
 - 🤝 I value collaboration and effective communication, thriving in team environments.
 - 📫 Excited to work with creative teams on new challenges.
